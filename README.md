@@ -20,7 +20,7 @@ A responsive and dynamic News Application built with React.js and the GNews API.
 
 ## Screenshots 🌟
 
-![App Screenshot](https://via.placeholder.com/1200x600?text=Add+App+Screenshots+Here)
+![App Screenshot](https://github.com/kishan9535/News-app/raw/main/screenshots/exampl1.png)
 
 ---
 
